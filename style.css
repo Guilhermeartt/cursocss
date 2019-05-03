@@ -9,7 +9,7 @@
 
 
 
-.wrappergray .col-1,
+.wrappergray .wrapperGIS .col-1,
 .col-2,
 .col-3,
 .col-4,
@@ -2657,9 +2657,7 @@ div.center {
 }
 
 
-.txt p,
-li,
-ul {
+.wrappergray p, li, ul {
     font-size: 18px !important;
     font-family: roboto, sans-serif !important;
     font-weight: 400 !important;
